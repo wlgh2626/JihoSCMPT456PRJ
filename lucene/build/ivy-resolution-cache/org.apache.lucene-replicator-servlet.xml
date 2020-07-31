@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="org.apache.lucene"
+		module="replicator"
+		revision="working@66e6317fa03f"
+		conf="servlet"
+		confs="http, jetty, start, servlet, logging"
+		date="20200728013224"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
